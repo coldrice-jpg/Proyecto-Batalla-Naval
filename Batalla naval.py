@@ -91,6 +91,7 @@ creditos_texto = [
     "Assets: ",
     "Backgrounds: Alexis Fernando Coronado López",
     "Barcos: Alexis Fernando Coronado López",
+    "Sprites: Alexis Fernando Coronado López",
     "",
     "Música menú: Yankee Doodle",
     "Música créditos: Johnny B. Good - Chuck Berry",
